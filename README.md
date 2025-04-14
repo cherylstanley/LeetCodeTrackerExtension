@@ -1,6 +1,6 @@
 # cse210-fa24-group5
 
-Self Generating Documentation can be foudn [here](https://cse210-fa24-group5.github.io/cse210-fa24-group5/index.html)
+Self Generating Documentation can be found [here](https://cse210-fa24-group5.github.io/cse210-fa24-group5/index.html)
 
 CI Pipeline can be found [here](https://github.com/cse210-fa24-group5/cse210-fa24-group5/blob/dev/admin/cipipeline/cicd.md)
 
